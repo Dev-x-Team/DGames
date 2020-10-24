@@ -1,0 +1,20 @@
+{
+  "name": "DGames",
+  "version": "1.0.0",
+  "description": "DGames is a project for games by C#, JS, Java, Swift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-x-Team/DGames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-x-Team/DGames/issues"
+  },
+  "homepage": "https://github.com/Dev-x-Team/DGames#readme"
+}
