@@ -1,0 +1,64 @@
+﻿  AboutMenu.cpp
+  Beetle.cpp
+  Block.cpp
+  BlockDebris.cpp
+  Bowser.cpp
+  Bubble.cpp
+  BulletBill.cpp
+  BulletBillSpawner.cpp
+  CFG.cpp
+  Cheep.cpp
+  CheepSpawner.cpp
+  Coin.cpp
+  Console.cpp
+  Core.cpp
+  Fire.cpp
+  FireBall.cpp
+  Flag.cpp
+  Flower.cpp
+  Goombas.cpp
+  Hammer.cpp
+  Generating Code...
+  Compiling...
+  HammerBro.cpp
+  IMG.cpp
+  Koppa.cpp
+  Event.cpp
+  Lakito.cpp
+  LevelEditor.cpp
+  LevelText.cpp
+  LoadingMenu.cpp
+  main.cpp
+  MainMenu.cpp
+  Map.cpp
+  MapLevel.cpp
+  Menu.cpp
+  MenuManager.cpp
+  MenuOption.cpp
+  Minion.cpp
+  Mushroom.cpp
+  Music.cpp
+  OptionsMenu.cpp
+  PauseMenu.cpp
+  Generating Code...
+  Compiling...
+  Pipe.cpp
+  Plant.cpp
+  Platform.cpp
+  Player.cpp
+  PlayerFireBall.cpp
+  Points.cpp
+  Spikey.cpp
+  Spring.cpp
+  Sprite.cpp
+  Squid.cpp
+  Star.cpp
+  Text.cpp
+  Toad.cpp
+  UpFire.cpp
+  Vector2.cpp
+  Vine.cpp
+  Generating Code...
+uNext.rc(33): warning RC4093: unescaped newline in character constant in inactive code
+  
+  uNext.vcxproj -> C:\Users\abdfn\OneDrive\Documents\Game\Mario\Debug\uNext.exe
